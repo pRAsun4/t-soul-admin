@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Allura&family=Mate+SC&family=Orbit&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+
+
+.head-icon-box .admin-btn {
+  font-family: "Rubik", sans-serif;
+  line-height: auto;
+  letter-spacing: 0.0156rem;
+  font-weight: 400;
+}
+header {
+  -webkit-box-shadow: 4px 1.5px 7px 2.5px #dddddd;
+  -moz-box-shadow: 4px 1.5px 7px 2.5px #dddddd;
+  box-shadow: 4px 1.5px 7px 2.5px #dddddd;
+}
+.drop-down h3 {
+  font-family: "Rubik", sans-serif;
+  line-height: 1;
+  letter-spacing: 0%;
+  font-weight: 500;
+}
